@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "values": [
+    {"name": "grid width", "group": "world", "value": 20, "unit": "cells", "estimated": true},
+    {"name": "grid height", "group": "world", "value": 20, "unit": "cells", "estimated": true},
+    {"name": "tick interval", "group": "movement", "value": 0.12, "unit": "s", "estimated": true},
+    {"name": "initial length", "group": "rules", "value": 3, "unit": "segments", "estimated": true},
+    {"name": "food score", "group": "rules", "value": 10, "unit": "points", "estimated": true},
+    {"name": "controls", "group": "controls", "value": "arrow keys or wasd", "estimated": true},
+    {"name": "eat sound", "group": "audio", "value": "procedural 8-bit chirp", "estimated": true},
+    {"name": "game over sound", "group": "audio", "value": "procedural descending buzz", "estimated": true}
+  ]
+}
